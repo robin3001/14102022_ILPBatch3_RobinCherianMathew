@@ -1,0 +1,45 @@
+package com.experion.service;
+
+import java.util.ArrayList;
+import java.util.Random;
+
+import com.experion.entity.Customers;
+import com.experion.entity.SavingMaxAccount;
+
+public class Service {
+
+	public static boolean checkCustomerExist(ArrayList<Customers> customerList, String customerId) {
+		
+//		Customers customer = new Customers();
+		for (Customers customers : customerList) {
+			if(customerId == customers.getCustomerId()) {
+				
+			}
+		}
+		String result = "No";
+		if(customerId == "Cid1s") {
+			result= "Yes";
+		}
+		return result;
+	}
+
+	public static Customers createAccount(String customerId, String customerName, String accounts) {
+		
+		//To get an random account number
+		Random rand = new Random();
+		int accountNumber = rand.nextInt(1000);
+		 
+		SavingMaxAccount savingaccount = new SavingMaxAccount(accountNumber,accounts,0);
+		Customers customer = new Customers(customerId,customerName,accounts);
+		
+		System.out.println("Account is active.!!!!!! ");
+		
+		return customer;
+	}
+
+	public static int customerDetails(String customerId) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

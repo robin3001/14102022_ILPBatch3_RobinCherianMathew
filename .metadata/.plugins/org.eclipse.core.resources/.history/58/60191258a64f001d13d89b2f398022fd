@@ -1,0 +1,23 @@
+package com.experion.utility;
+
+import java.text.ParseException;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.experion.entity.Account;
+import com.experion.entity.Product;
+import com.experion.service.AccountService;
+
+public class ProductUtility {
+
+	public static void main(String[] args) {
+		
+		 Account account = new Account("Womens savings Account","ACC1987677",10000);
+		 
+		 AccountService  accountService =new AccountService();
+		 
+		 accountService.depositeCash(account, 20000);
+		 accountService.depositeCash(account, 0,"robincherian@okaxis");
+		 accountService.depositeCash(account, "CHEQW087677",10000);
+	}
+}

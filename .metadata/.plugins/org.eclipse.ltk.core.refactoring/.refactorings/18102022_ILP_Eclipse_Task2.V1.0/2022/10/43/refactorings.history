@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Product.java&apos; to &apos;20102022_ILP_BankingAssignment/src/com.experion.entity&apos;&#x0D;&#x0A;- Original project: &apos;18102022_ILP_Eclipse_Task2.V1.0&apos;&#x0D;&#x0A;- Destination element: &apos;20102022_ILP_BankingAssignment/src/com.experion.entity&apos;&#x0D;&#x0A;- Original element: &apos;com.experion.entity.Product.java&apos;" description="Copy compilation unit" destination="=20102022_ILP_BankingAssignment/src&lt;com.experion.entity" element1="/src&lt;com.experion.entity{Product.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1666245962190" units="1" version="1.0"/>
+</session>
