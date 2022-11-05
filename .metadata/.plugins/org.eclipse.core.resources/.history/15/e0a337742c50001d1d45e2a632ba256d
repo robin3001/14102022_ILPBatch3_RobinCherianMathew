@@ -1,7 +1,0 @@
-package com.experion.entity;
-
-public abstract class loanService {
-
-	public abstract void checkDueDate();
-	public abstract void loanApproval();
-}

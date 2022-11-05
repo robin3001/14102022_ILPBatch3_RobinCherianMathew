@@ -28,6 +28,8 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\ILP_Experion\SharedDocumentByFadia\19th.zip"/>
+			<item value="D:\ILP_Experion\SharedDocumentByFadia\20th.zip"/>
 			<item value="D:\ILP_Experion\SharedDocumentBySuneesh\17102022\sharedbyfadia\assignment.zip"/>
 			<item value="D:\ILP_Experion\SharedDocumentBySuneesh\17102022\sharedbyfadia\Task2Final.zip"/>
 			<item value="D:\ILP_Experion\SharedDocumentBySuneesh\17102022\sharedbyfadia\Task2.zip"/>

@@ -1,7 +1,0 @@
-package com.experion.entity;
-
-public abstract class CardAccountService {
-
-	public abstract void checkBanalance();
-	public abstract void cashWithdraw();
-}

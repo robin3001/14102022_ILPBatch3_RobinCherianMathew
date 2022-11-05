@@ -13,4 +13,8 @@
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="com.bank.service.Service"/>
     <fullyQualifiedTypeName name="com.experion.entity.Customer"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.bank.service.BankService"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.bank.entity.Service"/>
 </qualifiedTypeNameHistroy>
